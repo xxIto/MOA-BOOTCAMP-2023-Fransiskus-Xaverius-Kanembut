@@ -1,0 +1,48 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+@import url("https://fonts.googleapis.com/css?family=Rubik:400|PT+Serif:400,700|Roboto:400|Arvo:400");
+@font-face {
+  font-family: "Circular-Bold";
+  src: url("https://anima-uploads.s3.amazonaws.com/5ab9ecc24ad895000dc1a8c2/lineto-circular-pro-bold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Circular-Regular";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/6000ade96406e963b8b3f47e/fonts/circularstd-book.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Circular-Book";
+  src: url("https://anima-uploads.s3.amazonaws.com/5911b234d19ef1000b84e188/lineto-circular-pro-book.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Circular-Medium";
+  src: url("https://anima-uploads.s3.amazonaws.com/5ab9ecc24ad895000dc1a8c2/lineto-circular-pro-medium.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "CircularStd-Medium";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/6264a14df50d91257268d0f3/fonts/circularstd-medium.otf")
+    format("opentype");
+}

@@ -1,0 +1,3199 @@
+.element-index {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element-index .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1600px;
+    height: 10750px;
+    position: relative;
+  }
+  
+  .element-index .footer {
+    position: absolute;
+    width: 1252px;
+    height: 447px;
+    top: 10263px;
+    left: 213px;
+    background-color: transparent;
+  }
+  
+  .element-index .shape {
+    position: absolute;
+    width: 145px;
+    height: 123px;
+    top: 280px;
+    left: 2px;
+  }
+  
+  .element-index .overlap {
+    position: absolute;
+    width: 504px;
+    height: 440px;
+    top: 7px;
+    left: 312px;
+  }
+  
+  .element-index .overlap-group {
+    position: absolute;
+    width: 504px;
+    height: 440px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .bottom-footer {
+    position: absolute;
+    width: 359px;
+    height: 23px;
+    top: 407px;
+    left: 145px;
+    overflow: hidden;
+  }
+  
+  .element-index .copyright-cre {
+    position: absolute;
+    width: 445px;
+    top: 1px;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #343434;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .block {
+    position: absolute;
+    width: 185px;
+    height: 440px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .home-product-pricing {
+    position: absolute;
+    width: 183px;
+    top: 59px;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #343434;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 41px;
+  }
+  
+  .element-index .heading {
+    position: absolute;
+    width: 68px;
+    height: 37px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .text-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 400;
+    color: #0d0d0d;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .block-2 {
+    position: absolute;
+    width: 212px;
+    height: 327px;
+    top: 0;
+    left: 215px;
+  }
+  
+  .element-index .FAQ-blog-contact-us {
+    position: absolute;
+    width: 210px;
+    top: 59px;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #343434;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 42px;
+  }
+  
+  .element-index .title {
+    position: absolute;
+    width: 197px;
+    height: 37px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .block-3 {
+    position: absolute;
+    width: 433px;
+    height: 298px;
+    top: 7px;
+    left: 821px;
+  }
+  
+  .element-index .newsletter {
+    position: absolute;
+    width: 350px;
+    height: 86px;
+    top: 212px;
+    left: 2px;
+  }
+  
+  .element-index .form {
+    position: absolute;
+    width: 347px;
+    height: 50px;
+    top: 36px;
+    left: 1px;
+  }
+  
+  .element-index .button {
+    position: absolute;
+    width: 120px;
+    height: 49px;
+    top: 0;
+    left: 227px;
+    overflow: hidden;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .element-index .div-wrapper {
+    position: relative;
+    width: 122px;
+    height: 51px;
+    top: -1px;
+    left: -1px;
+    background-color: #fd3a39;
+    border-radius: 5px;
+  }
+  
+  .element-index .text-wrapper-2 {
+    position: absolute;
+    top: 15px;
+    left: 25px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .input {
+    position: absolute;
+    width: 215px;
+    height: 50px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .overlap-2 {
+    position: relative;
+    height: 50px;
+    border-radius: 5px;
+  }
+  
+  .element-index .email-address {
+    position: absolute;
+    top: 17px;
+    left: 21px;
+    opacity: 0.45;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #343434;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+  
+  .element-index .rectangle {
+    position: absolute;
+    width: 215px;
+    height: 50px;
+    top: 0;
+    left: 0;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .element-index .SIGN-UP-FOR-NEWSLETT {
+    position: absolute;
+    width: 222px;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #343434;
+    font-size: 15px;
+    letter-spacing: 1.4px;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .element-index .social-media {
+    position: absolute;
+    width: 124px;
+    height: 20px;
+    top: 148px;
+    left: 3px;
+  }
+  
+  .element-index .element-lojiho-terrace {
+    position: absolute;
+    top: 62px;
+    left: 3px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #343434;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .element-index .heading-2 {
+    position: absolute;
+    width: 154px;
+    height: 37px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .block-4 {
+    position: absolute;
+    width: 210px;
+    height: 138px;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .element-index .element {
+    position: absolute;
+    width: 151px;
+    top: 113px;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .ensuinco-gmail-com {
+    position: absolute;
+    width: 288px;
+    top: 73px;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .logo {
+    width: 101px;
+    left: 6px;
+    position: absolute;
+    height: 41px;
+    top: 0;
+    overflow: hidden;
+  }
+  
+  .element-index .sefu {
+    width: 146px;
+    left: 8px;
+    font-size: 32px;
+    position: absolute;
+    top: 0;
+    font-family: "Circular-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .overlap-3 {
+    position: absolute;
+    width: 1800px;
+    height: 2023px;
+    top: 8118px;
+    left: -100px;
+  }
+  
+  .element-index .our-news {
+    width: 1800px;
+    height: 1435px;
+    top: 454px;
+    position: absolute;
+    left: 0;
+  }
+  
+  .element-index .overlap-4 {
+    position: relative;
+    width: 1802px;
+    height: 1437px;
+    top: -1px;
+    left: -1px;
+    background-color: #fff3d4;
+  }
+  
+  .element-index .blog {
+    left: 1124px;
+    position: absolute;
+    width: 361px;
+    height: 451px;
+    top: 657px;
+  }
+  
+  .element-index .button-2 {
+    position: absolute;
+    width: 103px;
+    height: 25px;
+    top: 426px;
+    left: 1px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .element-index .path {
+    position: absolute;
+    width: 6px;
+    height: 10px;
+    top: 8px;
+    left: 97px;
+  }
+  
+  .element-index .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 25px;
+    white-space: nowrap;
+  }
+  
+  .element-index .text {
+    position: absolute;
+    width: 340px;
+    height: 111px;
+    top: 286px;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .element-index .element-reasons-ensure-is {
+    position: absolute;
+    width: 339px;
+    top: 35px;
+    left: 1px;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 38px;
+  }
+  
+  .element-index .element-feb {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #e74a4a;
+    font-size: 17px;
+    letter-spacing: 0.94px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .image {
+    position: absolute;
+    width: 360px;
+    height: 250px;
+    top: 0;
+    left: 1px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/rectangle-9@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .element-index .blog-2 {
+    left: 720px;
+    position: absolute;
+    width: 361px;
+    height: 451px;
+    top: 657px;
+  }
+  
+  .element-index .blog-3 {
+    left: 313px;
+    position: absolute;
+    width: 361px;
+    height: 451px;
+    top: 657px;
+  }
+  
+  .element-index .img {
+    position: absolute;
+    width: 360px;
+    height: 250px;
+    top: 0;
+    left: 1px;
+  }
+  
+  .element-index .heading-3 {
+    position: absolute;
+    width: 866px;
+    height: 133px;
+    top: 423px;
+    left: 468px;
+  }
+  
+  .element-index .overlap-group-2 {
+    position: absolute;
+    width: 866px;
+    height: 91px;
+    top: 39px;
+    left: 0;
+  }
+  
+  .element-index .fill {
+    position: absolute;
+    width: 141px;
+    height: 91px;
+    top: 0;
+    left: 77px;
+  }
+  
+  .element-index .latest-news-articl {
+    position: absolute;
+    width: 866px;
+    top: 9px;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #0d0d0d;
+    font-size: 62px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 68px;
+  }
+  
+  .element-index .news-updates {
+    position: absolute;
+    top: 0;
+    left: 339px;
+    opacity: 0.3;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .get-a-quote {
+    position: absolute;
+    width: 1249px;
+    height: 673px;
+    top: 0;
+    left: 235px;
+  }
+  
+  .element-index .overlap-5 {
+    position: relative;
+    height: 673px;
+  }
+  
+  .element-index .group {
+    position: absolute;
+    width: 182px;
+    height: 179px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .bg {
+    position: absolute;
+    width: 1168px;
+    height: 601px;
+    top: 72px;
+    left: 81px;
+  }
+  
+  .element-index .rectangle-wrapper {
+    position: relative;
+    width: 1170px;
+    height: 603px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0px 30px 60px #12172f12;
+  }
+  
+  .element-index .rectangle-2 {
+    position: relative;
+    width: 3px;
+    height: 602px;
+    left: 505px;
+    background-color: #dedede;
+  }
+  
+  .element-index .right {
+    position: absolute;
+    width: 566px;
+    height: 448px;
+    top: 151px;
+    left: 642px;
+    overflow: hidden;
+  }
+  
+  .element-index .facing-any-problem-t {
+    position: absolute;
+    top: 360px;
+    left: 23px;
+    font-family: "Circular-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 44px;
+  }
+  
+  .element-index .span {
+    color: #8a8a8a;
+  }
+  
+  .element-index .text-wrapper-4 {
+    font-family: "Rubik", Helvetica;
+    color: #0d0d0d;
+    font-size: 24px;
+  }
+  
+  .element-index .text-wrapper-5 {
+    font-family: "Rubik", Helvetica;
+    color: #e82e2e;
+    font-size: 24px;
+  }
+  
+  .element-index .things-go-wrong-you-wrapper {
+    position: absolute;
+    width: 546px;
+    height: 98px;
+    top: 248px;
+    left: 22px;
+  }
+  
+  .element-index .things-go-wrong-you {
+    position: absolute;
+    width: 544px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #3e3e3e;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .element-index .overlap-group-wrapper {
+    position: absolute;
+    width: 562px;
+    height: 216px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .overlap-group-3 {
+    position: relative;
+    width: 560px;
+    height: 148px;
+    left: 2px;
+  }
+  
+  .element-index .fill-2 {
+    position: absolute;
+    width: 290px;
+    height: 81px;
+    top: 67px;
+    left: 0;
+  }
+  
+  .element-index .ready-to-start-comp {
+    position: absolute;
+    width: 544px;
+    top: 0;
+    left: 16px;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 60px;
+    letter-spacing: 0;
+    line-height: 72px;
+  }
+  
+  .element-index .left {
+    position: absolute;
+    width: 352px;
+    height: 413px;
+    top: 166px;
+    left: 155px;
+    overflow: hidden;
+  }
+  
+  .element-index .been-here-before-re {
+    position: absolute;
+    top: 393px;
+    left: 25px;
+    font-family: "Circular-Book", Helvetica;
+    font-weight: 400;
+    color: #717171;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .start-a-quote-wrapper {
+    position: absolute;
+    width: 350px;
+    height: 52px;
+    top: 320px;
+    left: 2px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/rectangle-7.svg);
+    background-size: 100% 100%;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .element-index .start-a-quote {
+    position: absolute;
+    top: 16px;
+    left: 106px;
+    font-family: "Circular-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 1.07px;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .element-index .input-2 {
+    position: absolute;
+    width: 350px;
+    height: 62px;
+    top: 229px;
+    left: 2px;
+  }
+  
+  .element-index .overlap-group-4 {
+    position: relative;
+    height: 62px;
+  }
+  
+  .element-index .rectangle-3 {
+    position: absolute;
+    width: 350px;
+    height: 52px;
+    top: 10px;
+    left: 0;
+    border-radius: 5px;
+    border: 1.5px solid;
+    border-color: #d9d9d9;
+  }
+  
+  .element-index .rectangle-4 {
+    position: absolute;
+    width: 51px;
+    height: 17px;
+    top: 3px;
+    left: 12px;
+    background-color: #ffffff;
+  }
+  
+  .element-index .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    font-family: "Circular-Book", Helvetica;
+    font-weight: 400;
+    color: #b7b7b7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .uhenilezu-upu-com {
+    position: absolute;
+    top: 25px;
+    left: 20px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .overlap-wrapper {
+    position: absolute;
+    width: 348px;
+    height: 62px;
+    top: 142px;
+    left: 3px;
+  }
+  
+  .element-index .rectangle-5 {
+    position: absolute;
+    width: 348px;
+    height: 52px;
+    top: 10px;
+    left: 0;
+    border-radius: 5px;
+    border: 1.5px solid;
+    border-color: #d6d6d6;
+  }
+  
+  .element-index .path-2 {
+    position: absolute;
+    width: 13px;
+    height: 8px;
+    top: 33px;
+    left: 320px;
+  }
+  
+  .element-index .rectangle-6 {
+    position: absolute;
+    width: 63px;
+    height: 17px;
+    top: 3px;
+    left: 12px;
+    background-color: #ffffff;
+  }
+  
+  .element-index .life-insurance {
+    position: absolute;
+    top: 27px;
+    left: 20px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .select-a-product-to-wrapper {
+    position: absolute;
+    width: 354px;
+    height: 27px;
+    top: 52px;
+    left: 0;
+  }
+  
+  .element-index .select-a-product-to {
+    position: absolute;
+    width: 352px;
+    top: 0;
+    left: 0;
+    font-family: "Circular-Book", Helvetica;
+    font-weight: 400;
+    color: #787878;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 27px;
+  }
+  
+  .element-index .get-a-quote-wrapper {
+    position: absolute;
+    width: 300px;
+    height: 42px;
+    top: 0;
+    left: 1px;
+    overflow: hidden;
+  }
+  
+  .element-index .get-a-quote-2 {
+    width: 441px;
+    top: 0;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #252525;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .placeholder {
+    position: absolute;
+    width: 1170px;
+    height: 222px;
+    top: 1801px;
+    left: 315px;
+  }
+  
+  .element-index .overlap-6 {
+    position: relative;
+    height: 222px;
+  }
+  
+  .element-index .bg-2 {
+    position: absolute;
+    width: 1170px;
+    height: 222px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .rectangle-7 {
+    position: relative;
+    width: 1172px;
+    height: 224px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 40px 100px #080f150e;
+  }
+  
+  .element-index .button-3 {
+    position: absolute;
+    width: 240px;
+    height: 70px;
+    top: 77px;
+    left: 878px;
+    overflow: hidden;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .element-index .get-your-free-quote-wrapper {
+    position: relative;
+    width: 242px;
+    height: 72px;
+    top: -1px;
+    left: -1px;
+    background-color: #fd3a39;
+    border-radius: 7px;
+  }
+  
+  .element-index .get-your-free-quote {
+    position: absolute;
+    top: 25px;
+    left: 47px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .try-it-risk-free-w-wrapper {
+    position: absolute;
+    width: 472px;
+    height: 28px;
+    top: 131px;
+    left: 67px;
+    overflow: hidden;
+  }
+  
+  .element-index .try-it-risk-free-w {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .element-index .heading-4 {
+    position: absolute;
+    width: 790px;
+    height: 74px;
+    top: 51px;
+    left: 61px;
+    overflow: hidden;
+  }
+  
+  .element-index .overlap-7 {
+    position: relative;
+    width: 842px;
+    height: 66px;
+    top: 2px;
+  }
+  
+  .element-index .shape-rounded-double {
+    position: absolute;
+    width: 230px;
+    height: 66px;
+    top: 0;
+    left: 103px;
+  }
+  
+  .element-index .get-an-instant-quote {
+    position: absolute;
+    width: 842px;
+    top: 14px;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: 37px;
+  }
+  
+  .element-index .faq {
+    position: absolute;
+    width: 1191px;
+    height: 618px;
+    top: 7264px;
+    left: 193px;
+  }
+  
+  .element-index .r-ight {
+    position: absolute;
+    width: 556px;
+    height: 602px;
+    top: 16px;
+    left: 635px;
+  }
+  
+  .element-index .overlap-group-5 {
+    position: relative;
+    height: 602px;
+  }
+  
+  .element-index .divider {
+    position: absolute;
+    width: 555px;
+    height: 602px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .rectangle-8 {
+    position: absolute;
+    width: 557px;
+    height: 4px;
+    top: -1px;
+    left: -1px;
+    background-color: #000000;
+  }
+  
+  .element-index .rectangle-copy {
+    position: absolute;
+    width: 557px;
+    height: 4px;
+    top: 199px;
+    left: -1px;
+    background-color: #000000;
+  }
+  
+  .element-index .rectangle-copy-2 {
+    top: 299px;
+    position: absolute;
+    width: 557px;
+    height: 4px;
+    left: -1px;
+    background-color: #000000;
+  }
+  
+  .element-index .rectangle-copy-3 {
+    top: 399px;
+    position: absolute;
+    width: 557px;
+    height: 4px;
+    left: -1px;
+    background-color: #000000;
+  }
+  
+  .element-index .rectangle-copy-4 {
+    top: 499px;
+    position: absolute;
+    width: 557px;
+    height: 4px;
+    left: -1px;
+    background-color: #000000;
+  }
+  
+  .element-index .rectangle-copy-5 {
+    top: 599px;
+    position: absolute;
+    width: 557px;
+    height: 4px;
+    left: -1px;
+    background-color: #000000;
+  }
+  
+  .element-index .rectangle-9 {
+    position: absolute;
+    width: 557px;
+    height: 4px;
+    top: 99px;
+    left: -1px;
+    background-color: #000000;
+  }
+  
+  .element-index .faq-2 {
+    position: absolute;
+    width: 548px;
+    height: 28px;
+    top: 537px;
+    left: 8px;
+  }
+  
+  .element-index .p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .element-index .path-3 {
+    top: 4px;
+    left: 534px;
+    position: absolute;
+    width: 14px;
+    height: 9px;
+  }
+  
+  .element-index .faq-3 {
+    position: absolute;
+    width: 544px;
+    height: 28px;
+    top: 429px;
+    left: 12px;
+  }
+  
+  .element-index .path-4 {
+    position: absolute;
+    width: 14px;
+    height: 9px;
+    top: 13px;
+    left: 530px;
+  }
+  
+  .element-index .faq-4 {
+    position: absolute;
+    width: 544px;
+    height: 28px;
+    top: 329px;
+    left: 12px;
+  }
+  
+  .element-index .faq-5 {
+    position: absolute;
+    width: 544px;
+    height: 28px;
+    top: 229px;
+    left: 12px;
+  }
+  
+  .element-index .path-5 {
+    top: 12px;
+    left: 530px;
+    position: absolute;
+    width: 14px;
+    height: 9px;
+  }
+  
+  .element-index .faq-6 {
+    position: absolute;
+    width: 555px;
+    height: 28px;
+    top: 131px;
+    left: 0;
+  }
+  
+  .element-index .path-6 {
+    top: 13px;
+    left: 541px;
+    position: absolute;
+    width: 14px;
+    height: 9px;
+  }
+  
+  .element-index .faq-7 {
+    position: absolute;
+    width: 539px;
+    height: 27px;
+    top: 34px;
+    left: 12px;
+  }
+  
+  .element-index .how-does-the-free-tr {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .path-7 {
+    top: 10px;
+    left: 525px;
+    position: absolute;
+    width: 14px;
+    height: 9px;
+  }
+  
+  .element-index .left-2 {
+    position: absolute;
+    width: 542px;
+    height: 439px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .button-4 {
+    position: absolute;
+    width: 173px;
+    height: 50px;
+    top: 389px;
+    left: 22px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/rectangle-6.svg);
+    background-size: 100% 100%;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .element-index .text-wrapper-7 {
+    position: absolute;
+    width: 135px;
+    top: 13px;
+    left: 22px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .for-more-information-wrapper {
+    position: absolute;
+    width: 495px;
+    height: 70px;
+    top: 265px;
+    left: 20px;
+  }
+  
+  .element-index .for-more-information {
+    position: absolute;
+    width: 493px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 36px;
+  }
+  
+  .element-index .text-wrapper-8 {
+    color: #000000;
+  }
+  
+  .element-index .text-wrapper-9 {
+    color: #3488d0;
+    text-decoration: underline;
+  }
+  
+  .element-index .heading-5 {
+    position: absolute;
+    width: 542px;
+    height: 225px;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .element-index .overlap-group-6 {
+    position: relative;
+    width: 613px;
+    height: 158px;
+    left: 2px;
+  }
+  
+  .element-index .fill-3 {
+    position: absolute;
+    width: 317px;
+    height: 84px;
+    top: 74px;
+    left: 0;
+  }
+  
+  .element-index .find-your-all-insura {
+    position: absolute;
+    width: 595px;
+    top: 0;
+    left: 18px;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 62px;
+    letter-spacing: 0;
+    line-height: 75px;
+  }
+  
+  .element-index .client-feedback {
+    position: absolute;
+    width: 2302px;
+    height: 1275px;
+    top: 5735px;
+    left: -351px;
+  }
+  
+  .element-index .overlap-8 {
+    position: relative;
+    height: 1275px;
+  }
+  
+  .element-index .bg-3 {
+    position: absolute;
+    width: 1598px;
+    height: 1174px;
+    top: 101px;
+    left: 351px;
+  }
+  
+  .element-index .rectangle-10 {
+    position: relative;
+    width: 1600px;
+    height: 1176px;
+    top: -1px;
+    left: -1px;
+    background-color: #c2ebed;
+  }
+  
+  .element-index .shape-brush-rounded {
+    position: absolute;
+    width: 187px;
+    height: 189px;
+    top: 0;
+    left: 1672px;
+  }
+  
+  .element-index .block-5 {
+    position: absolute;
+    width: 670px;
+    height: 380px;
+    top: 649px;
+    left: 1632px;
+  }
+  
+  .element-index .overlap-group-7 {
+    position: relative;
+    width: 672px;
+    height: 382px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .element-index .image-name {
+    position: absolute;
+    width: 123px;
+    height: 124px;
+    top: 38px;
+    left: 275px;
+    overflow: hidden;
+  }
+  
+  .element-index .mukesh-mehta-delhi {
+    position: absolute;
+    top: 78px;
+    left: 2px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 23px;
+  }
+  
+  .element-index .text-wrapper-10 {
+    color: #1b1b1b;
+  }
+  
+  .element-index .text-wrapper-11 {
+    color: #c1c1c1;
+    font-size: 16px;
+  }
+  
+  .element-index .oval {
+    position: absolute;
+    width: 67px;
+    height: 67px;
+    top: -1px;
+    left: 28px;
+    background-color: #d7d7d7;
+    border-radius: 33.5px;
+  }
+  
+  .element-index .quote {
+    position: absolute;
+    width: 585px;
+    height: 175px;
+    top: 188px;
+    left: 45px;
+  }
+  
+  .element-index .lorem-ipsu-dolor-si {
+    position: absolute;
+    width: 583px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 33px;
+  }
+  
+  .element-index .block-active {
+    position: absolute;
+    width: 922px;
+    height: 470px;
+    top: 596px;
+    left: 690px;
+  }
+  
+  .element-index .overlap-9 {
+    position: relative;
+    height: 472px;
+    top: -1px;
+  }
+  
+  .element-index .rectangle-11 {
+    position: absolute;
+    width: 880px;
+    height: 472px;
+    top: 0;
+    left: 21px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 30px 604px #1b596818;
+  }
+  
+  .element-index .slider-button-left {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: 208px;
+    left: 0;
+  }
+  
+  .element-index .group-wrapper {
+    position: relative;
+    width: 57px;
+    height: 57px;
+    top: -1px;
+    left: -1px;
+    background-color: #c1e6e7;
+    border-radius: 28.5px;
+  }
+  
+  .element-index .group-2 {
+    position: absolute;
+    width: 29px;
+    height: 17px;
+    top: 21px;
+    left: 20px;
+  }
+  
+  .element-index .slider-button-right {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: 208px;
+    left: 867px;
+  }
+  
+  .element-index .img-wrapper {
+    position: relative;
+    width: 57px;
+    height: 57px;
+    top: -1px;
+    left: -1px;
+    background-color: #c0e5e6;
+    border-radius: 28.5px;
+  }
+  
+  .element-index .group-3 {
+    position: absolute;
+    width: 29px;
+    height: 17px;
+    top: 20px;
+    left: 11px;
+  }
+  
+  .element-index .image-name-2 {
+    position: absolute;
+    width: 182px;
+    height: 126px;
+    top: 47px;
+    left: 368px;
+    overflow: hidden;
+  }
+  
+  .element-index .mr-martin-jonas-texa {
+    position: absolute;
+    top: 76px;
+    left: 22px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .element-index .text-wrapper-12 {
+    color: #c1c1c1;
+    font-size: 18px;
+  }
+  
+  .element-index .oval-2 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 0;
+    left: 58px;
+    object-fit: cover;
+  }
+  
+  .element-index .lorem-ipsu-dolor-si-wrapper {
+    position: absolute;
+    width: 686px;
+    height: 236px;
+    top: 207px;
+    left: 118px;
+  }
+  
+  .element-index .lorem-ipsu-dolor-si-2 {
+    width: 684px;
+    font-size: 26px;
+    line-height: 43px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    text-align: center;
+    letter-spacing: 0;
+  }
+  
+  .element-index .block-6 {
+    position: absolute;
+    width: 670px;
+    height: 380px;
+    top: 649px;
+    left: 0;
+  }
+  
+  .element-index .name-image {
+    position: absolute;
+    width: 105px;
+    height: 124px;
+    top: 38px;
+    left: 284px;
+    overflow: hidden;
+  }
+  
+  .element-index .soniya-merri-dallas {
+    position: absolute;
+    top: 78px;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 23px;
+  }
+  
+  .element-index .oval-3 {
+    position: absolute;
+    width: 67px;
+    height: 67px;
+    top: -1px;
+    left: 19px;
+    background-color: #d7d7d7;
+    border-radius: 33.5px;
+  }
+  
+  .element-index .quote-2 {
+    position: absolute;
+    width: 585px;
+    height: 175px;
+    top: 187px;
+    left: 45px;
+  }
+  
+  .element-index .lorem-ipsu-dolor-si-3 {
+    width: 583px;
+    font-size: 20px;
+    line-height: 36px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    text-align: center;
+    letter-spacing: 0;
+  }
+  
+  .element-index .subtitle {
+    position: absolute;
+    width: 622px;
+    height: 28px;
+    top: 455px;
+    left: 840px;
+    overflow: hidden;
+  }
+  
+  .element-index .things-go-wrong-you-2 {
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #0d0d0d;
+    font-size: 24px;
+    letter-spacing: 0;
+  }
+  
+  .element-index .heading-6 {
+    position: absolute;
+    width: 970px;
+    height: 166px;
+    top: 256px;
+    left: 667px;
+  }
+  
+  .element-index .overlap-10 {
+    position: relative;
+    width: 968px;
+    height: 161px;
+    top: 5px;
+  }
+  
+  .element-index .fill-4 {
+    position: absolute;
+    width: 222px;
+    height: 92px;
+    top: 0;
+    left: 94px;
+  }
+  
+  .element-index .client-all-over-the {
+    position: absolute;
+    width: 968px;
+    top: 9px;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #0d0d0d;
+    font-size: 62px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 76px;
+  }
+  
+  .element-index .company-facts {
+    position: absolute;
+    width: 1357px;
+    height: 643px;
+    top: 4947px;
+    left: 127px;
+  }
+  
+  .element-index .r-ight-2 {
+    position: absolute;
+    width: 648px;
+    height: 611px;
+    top: 0;
+    left: 709px;
+  }
+  
+  .element-index .button-5 {
+    position: absolute;
+    width: 173px;
+    height: 55px;
+    top: 556px;
+    left: 2px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/rectangle-11.svg);
+    background-size: 100% 100%;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .element-index .get-a-quote-3 {
+    width: 135px;
+    top: 15px;
+    left: 21px;
+    font-family: "Circular-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .overlap-11 {
+    position: absolute;
+    width: 648px;
+    height: 523px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .text-2 {
+    position: absolute;
+    width: 587px;
+    height: 253px;
+    top: 270px;
+    left: 0;
+  }
+  
+  .element-index .things-go-wrong-you-3 {
+    width: 585px;
+    opacity: 0.8;
+    line-height: 38px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #0d0d0d;
+    font-size: 24px;
+    letter-spacing: 0;
+  }
+  
+  .element-index .heading-7 {
+    position: absolute;
+    width: 643px;
+    height: 352px;
+    top: 0;
+    left: 5px;
+  }
+  
+  .element-index .overlap-group-8 {
+    position: relative;
+    height: 352px;
+  }
+  
+  .element-index .shape-2 {
+    position: absolute;
+    width: 259px;
+    height: 132px;
+    top: 0;
+    left: 248px;
+  }
+  
+  .element-index .insure-secure-your {
+    position: absolute;
+    width: 643px;
+    top: 31px;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 62px;
+    letter-spacing: 0;
+    line-height: 78px;
+  }
+  
+  .element-index .left-3 {
+    position: absolute;
+    width: 596px;
+    height: 641px;
+    top: 2px;
+    left: 0;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/shape-6.png);
+    background-size: 100% 100%;
+  }
+  
+  .element-index .element-loan-done-wrapper {
+    position: absolute;
+    width: 183px;
+    height: 134px;
+    top: 471px;
+    left: 345px;
+  }
+  
+  .element-index .div-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .text-wrapper-13 {
+    font-weight: 700;
+    color: #f9b800;
+  }
+  
+  .element-index .text-wrapper-14 {
+    font-family: "Rubik", Helvetica;
+    color: #3e3e3e;
+    font-size: 18px;
+  }
+  
+  .element-index .element-world-customer-wrapper {
+    position: absolute;
+    width: 174px;
+    height: 134px;
+    top: 240px;
+    left: 62px;
+    overflow: hidden;
+  }
+  
+  .element-index .text-wrapper-15 {
+    font-weight: 700;
+    color: #f94a24;
+  }
+  
+  .element-index .text-wrapper-16 {
+    font-family: "Roboto", Helvetica;
+    color: #3e3e3e;
+    font-size: 22px;
+  }
+  
+  .element-index .element-total-branch-wrapper {
+    position: absolute;
+    width: 226px;
+    height: 134px;
+    top: 58px;
+    left: 312px;
+    overflow: hidden;
+  }
+  
+  .element-index .text-wrapper-17 {
+    font-weight: 700;
+    color: #06b192;
+  }
+  
+  .element-index .text-wrapper-18 {
+    font-family: "Roboto", Helvetica;
+    color: #3e3e3e;
+    font-size: 24px;
+  }
+  
+  .element-index .what-we-do {
+    position: absolute;
+    width: 1200px;
+    height: 827px;
+    top: 3930px;
+    left: 184px;
+  }
+  
+  .element-index .overlap-12 {
+    position: absolute;
+    width: 1201px;
+    height: 161px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .helping-you-pre-time-wrapper {
+    position: absolute;
+    width: 459px;
+    height: 128px;
+    top: 19px;
+    left: 742px;
+  }
+  
+  .element-index .helping-you-pre-time {
+    position: absolute;
+    width: 457px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 45px;
+  }
+  
+  .element-index .heading-8 {
+    position: absolute;
+    width: 744px;
+    height: 161px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .overlap-group-9 {
+    position: relative;
+    height: 161px;
+  }
+  
+  .element-index .shape-3 {
+    position: absolute;
+    width: 257px;
+    height: 92px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .element-trusted-user {
+    position: absolute;
+    width: 714px;
+    top: 5px;
+    left: 30px;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 62px;
+    letter-spacing: 0;
+    line-height: 75px;
+  }
+  
+  .element-index .text-wrapper-19 {
+    color: #1bacb0;
+  }
+  
+  .element-index .title-wrapper {
+    position: absolute;
+    width: 370px;
+    height: 455px;
+    top: 280px;
+    left: 830px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/bg-3@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .element-index .zero-fees-fastest-wrapper {
+    position: relative;
+    width: 252px;
+    height: 70px;
+    top: 39px;
+    left: 44px;
+    overflow: hidden;
+  }
+  
+  .element-index .zero-fees-fastest {
+    position: absolute;
+    width: 291px;
+    top: 0;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #0d0d0d;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .element-index .block-7 {
+    position: absolute;
+    width: 370px;
+    height: 547px;
+    top: 280px;
+    left: 431px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/bg-2.png);
+    background-size: 100% 100%;
+  }
+  
+  .element-index .banner-wrapper {
+    position: absolute;
+    width: 288px;
+    height: 142px;
+    top: 154px;
+    left: 43px;
+  }
+  
+  .element-index .banner {
+    height: 142px;
+  }
+  
+  .element-index .helping-you-times-un-wrapper {
+    position: relative;
+    width: 290px;
+    height: 142px;
+  }
+  
+  .element-index .helping-you-times-un {
+    position: absolute;
+    width: 288px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .element-index .element-money-back-guar-wrapper {
+    position: absolute;
+    width: 241px;
+    height: 72px;
+    top: 38px;
+    left: 44px;
+    overflow: hidden;
+  }
+  
+  .element-index .element-money-back-guar {
+    position: absolute;
+    width: 275px;
+    top: 0;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #0d0d0d;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 36px;
+  }
+  
+  .element-index .t-itle-wrapper {
+    position: absolute;
+    width: 370px;
+    height: 455px;
+    top: 280px;
+    left: 30px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/bg-1@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .element-index .t-itle {
+    position: relative;
+    width: 239px;
+    height: 80px;
+    top: 37px;
+    left: 38px;
+    overflow: hidden;
+  }
+  
+  .element-index .trusted-fastest-gr {
+    position: absolute;
+    width: 310px;
+    top: 0;
+    left: 10px;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #0d0d0d;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+  
+  .element-index .overlap-13 {
+    position: absolute;
+    width: 1800px;
+    height: 2597px;
+    top: 1121px;
+    left: -101px;
+  }
+  
+  .element-index .services {
+    position: absolute;
+    width: 1800px;
+    height: 2480px;
+    top: 117px;
+    left: 0;
+  }
+  
+  .element-index .overlap-14 {
+    position: relative;
+    width: 1600px;
+    height: 2480px;
+    left: 101px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/bg.png);
+    background-size: 100% 100%;
+  }
+  
+  .element-index .overlap-15 {
+    position: absolute;
+    width: 1283px;
+    height: 1440px;
+    top: 575px;
+    left: 185px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/shape-4.png);
+    background-size: 100% 100%;
+  }
+  
+  .element-index .block-8 {
+    position: absolute;
+    width: 1171px;
+    height: 420px;
+    top: 962px;
+    left: 27px;
+  }
+  
+  .element-index .overlap-16 {
+    position: relative;
+    height: 420px;
+  }
+  
+  .element-index .bg-4 {
+    position: absolute;
+    width: 1171px;
+    height: 420px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .rectangle-12 {
+    position: relative;
+    width: 1173px;
+    height: 422px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .element-index .button-6 {
+    position: absolute;
+    width: 45px;
+    height: 15px;
+    top: 355px;
+    left: 519px;
+  }
+  
+  .element-index .lorem-ipsum-dol-amet-wrapper {
+    position: absolute;
+    width: 587px;
+    height: 72px;
+    top: 242px;
+    left: 518px;
+    overflow: hidden;
+  }
+  
+  .element-index .lorem-ipsum-dol-amet {
+    position: absolute;
+    width: 587px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 36px;
+  }
+  
+  .element-index .title-2 {
+    position: absolute;
+    width: 388px;
+    height: 155px;
+    top: 53px;
+    left: 520px;
+    overflow: hidden;
+  }
+  
+  .element-index .text-wrapper-20 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #eb4343;
+    font-size: 18px;
+    letter-spacing: 0.86px;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .element-index .long-term-saving-for {
+    position: absolute;
+    width: 464px;
+    top: 47px;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: 54px;
+  }
+  
+  .element-index .illsutration {
+    top: 55px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/rectangle-4@2x.png);
+    position: absolute;
+    width: 324px;
+    height: 320px;
+    left: 76px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .element-index .block-9 {
+    position: absolute;
+    width: 1171px;
+    height: 420px;
+    top: 493px;
+    left: 26px;
+  }
+  
+  .element-index .group-4 {
+    position: absolute;
+    width: 587px;
+    height: 314px;
+    top: 52px;
+    left: 519px;
+  }
+  
+  .element-index .button-7 {
+    position: absolute;
+    width: 45px;
+    height: 15px;
+    top: 300px;
+    left: 3px;
+  }
+  
+  .element-index .text-3 {
+    position: absolute;
+    width: 587px;
+    height: 72px;
+    top: 188px;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .element-index .title-3 {
+    position: absolute;
+    width: 432px;
+    height: 155px;
+    top: 0;
+    left: 2px;
+  }
+  
+  .element-index .make-your-car-secure {
+    position: absolute;
+    width: 432px;
+    top: 47px;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: 54px;
+  }
+  
+  .element-index .illsutration-2 {
+    top: 45px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/rectangle-3@2x.png);
+    position: absolute;
+    width: 324px;
+    height: 320px;
+    left: 76px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .element-index .block-10 {
+    position: absolute;
+    width: 1171px;
+    height: 420px;
+    top: 21px;
+    left: 27px;
+  }
+  
+  .element-index .style {
+    position: absolute;
+    width: 955px;
+    height: 217px;
+    top: 2090px;
+    left: 335px;
+  }
+  
+  .element-index .don-t-find-your-insu-wrapper {
+    position: absolute;
+    width: 955px;
+    height: 124px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .don-t-find-your-insu {
+    position: absolute;
+    width: 1110px;
+    top: 0;
+    left: -55px;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 62px;
+  }
+  
+  .element-index .button-8 {
+    position: absolute;
+    width: 220px;
+    height: 59px;
+    top: 158px;
+    left: 354px;
+    overflow: hidden;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .element-index .send-message-wrapper {
+    position: relative;
+    width: 222px;
+    height: 61px;
+    top: -1px;
+    left: -1px;
+    background-color: #ff3f3f;
+    border-radius: 6px;
+  }
+  
+  .element-index .send-message {
+    position: absolute;
+    top: 18px;
+    left: 54px;
+    font-family: "Circular-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .to-provide-consultan-wrapper {
+    position: absolute;
+    width: 857px;
+    height: 28px;
+    top: 422px;
+    left: 370px;
+  }
+  
+  .element-index .to-provide-consultan {
+    position: relative;
+    width: 859px;
+    height: 28px;
+  }
+  
+  .element-index .to-provide-consultan-2 {
+    position: absolute;
+    width: 857px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .heading-9 {
+    position: absolute;
+    width: 915px;
+    height: 176px;
+    top: 227px;
+    left: 341px;
+  }
+  
+  .element-index .overlap-17 {
+    position: relative;
+    height: 174px;
+  }
+  
+  .element-index .shape-4 {
+    position: absolute;
+    width: 335px;
+    height: 106px;
+    top: 0;
+    left: 336px;
+  }
+  
+  .element-index .make-customer-happy {
+    position: absolute;
+    width: 915px;
+    top: 0;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 62px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 75px;
+  }
+  
+  .element-index .company-status {
+    position: absolute;
+    width: 1170px;
+    height: 215px;
+    top: 0;
+    left: 314px;
+  }
+  
+  .element-index .overlap-18 {
+    position: relative;
+    height: 215px;
+  }
+  
+  .element-index .bg-5 {
+    position: absolute;
+    width: 1170px;
+    height: 215px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .rectangle-13 {
+    position: relative;
+    width: 1172px;
+    height: 217px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 50px 100px #080f1513;
+  }
+  
+  .element-index .block-11 {
+    position: absolute;
+    width: 330px;
+    height: 94px;
+    top: 57px;
+    left: 820px;
+  }
+  
+  .element-index .save-up-to-in-ou {
+    position: absolute;
+    width: 252px;
+    top: 33px;
+    left: 77px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .element-index .icon {
+    position: absolute;
+    width: 53px;
+    height: 53px;
+    top: 38px;
+    left: 0;
+  }
+  
+  .element-index .overlap-group-10 {
+    position: relative;
+    width: 55px;
+    height: 55px;
+    top: -1px;
+    left: -1px;
+    background-color: #fabd6e;
+    border-radius: 27.5px;
+  }
+  
+  .element-index .object {
+    position: absolute;
+    width: 53px;
+    height: 53px;
+    top: 1px;
+    left: 1px;
+  }
+  
+  .element-index .path-8 {
+    position: absolute;
+    width: 25px;
+    height: 21px;
+    top: 18px;
+    left: 15px;
+  }
+  
+  .element-index .discounts-savings {
+    position: absolute;
+    top: 0;
+    left: 77px;
+    opacity: 0.26;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0.94px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .block-12 {
+    position: absolute;
+    width: 334px;
+    height: 95px;
+    top: 56px;
+    left: 421px;
+  }
+  
+  .element-index .element-insurers-with-th {
+    position: absolute;
+    width: 252px;
+    top: 34px;
+    left: 81px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .element-index .text-wrapper-21 {
+    position: absolute;
+    top: 0;
+    left: 81px;
+    opacity: 0.26;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0.94px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .icon-2 {
+    position: absolute;
+    width: 53px;
+    height: 53px;
+    top: 41px;
+    left: 1px;
+  }
+  
+  .element-index .overlap-group-11 {
+    position: relative;
+    width: 55px;
+    height: 55px;
+    top: -1px;
+    left: -1px;
+    background-color: #289ea3;
+    border-radius: 27.5px;
+  }
+  
+  .element-index .block-13 {
+    position: absolute;
+    width: 288px;
+    height: 97px;
+    top: 57px;
+    left: 50px;
+  }
+  
+  .element-index .quick-easy-and-hass {
+    position: absolute;
+    width: 207px;
+    top: 34px;
+    left: 81px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 31px;
+  }
+  
+  .element-index .icon-3 {
+    position: absolute;
+    width: 53px;
+    height: 53px;
+    top: 40px;
+    left: 1px;
+  }
+  
+  .element-index .overlap-group-12 {
+    position: relative;
+    width: 55px;
+    height: 55px;
+    top: -1px;
+    left: -1px;
+    background-color: #ff8181;
+    border-radius: 27.5px;
+  }
+  
+  .element-index .path-9 {
+    position: absolute;
+    width: 24px;
+    height: 20px;
+    top: 18px;
+    left: 15px;
+  }
+  
+  .element-index .overlap-19 {
+    position: absolute;
+    width: 1852px;
+    height: 1104px;
+    top: 0;
+    left: -101px;
+  }
+  
+  .element-index .banner-2 {
+    position: absolute;
+    width: 1852px;
+    height: 1104px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .overlap-20 {
+    position: relative;
+    width: 1800px;
+    height: 1104px;
+  }
+  
+  .element-index .bg-6 {
+    position: absolute;
+    width: 1800px;
+    height: 1104px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .rectangle-14 {
+    position: relative;
+    width: 1802px;
+    height: 1106px;
+    top: -1px;
+    left: -1px;
+    background: linear-gradient(180deg, rgb(232.53, 247.57, 255) 0%, rgb(255, 255, 255) 53.14%, rgb(255, 255, 255) 100%);
+  }
+  
+  .element-index .oval-4 {
+    position: absolute;
+    width: 777px;
+    height: 757px;
+    top: 290px;
+    left: 924px;
+    object-fit: cover;
+  }
+  
+  .element-index .left-side {
+    position: absolute;
+    width: 791px;
+    height: 726px;
+    top: 273px;
+    left: 167px;
+  }
+  
+  .element-index .overlap-21 {
+    position: relative;
+    height: 726px;
+  }
+  
+  .element-index .shape-5 {
+    position: absolute;
+    width: 610px;
+    height: 726px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .review {
+    position: absolute;
+    width: 248px;
+    height: 64px;
+    top: 635px;
+    left: 148px;
+  }
+  
+  .element-index .text-wrapper-22 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .group-5 {
+    position: absolute;
+    width: 95px;
+    height: 15px;
+    top: 37px;
+    left: 89px;
+  }
+  
+  .element-index .as-rated-on-the-app {
+    position: absolute;
+    top: 14px;
+    left: 92px;
+    opacity: 0.5;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .button-line-rounded {
+    position: absolute;
+    width: 264px;
+    height: 61px;
+    top: 545px;
+    left: 317px;
+  }
+  
+  .element-index .button-9 {
+    position: relative;
+    height: 56px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .element-index .button-10 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .finad-a-agent-wrapper {
+    position: absolute;
+    width: 261px;
+    height: 55px;
+    top: 1px;
+    left: 3px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/rectangle-2.svg);
+    background-size: 100% 100%;
+  }
+  
+  .element-index .finad-a-agent {
+    position: absolute;
+    width: 203px;
+    top: 14px;
+    left: 30px;
+    font-family: "Circular-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .button-red-rounded {
+    position: absolute;
+    width: 175px;
+    height: 61px;
+    top: 542px;
+    left: 122px;
+  }
+  
+  .element-index .button-fill {
+    position: relative;
+    height: 56px;
+  }
+  
+  .element-index .group-6 {
+    position: absolute;
+    width: 173px;
+    height: 55px;
+    top: 1px;
+    left: 2px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/rectangle-11.svg);
+    background-size: 100% 100%;
+  }
+  
+  .element-index .get-a-quote-4 {
+    width: 135px;
+    height: 23px;
+    top: 14px;
+    left: 21px;
+    font-family: "Circular-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .subtitle-wrapper {
+    position: absolute;
+    width: 520px;
+    height: 96px;
+    top: 409px;
+    left: 115px;
+  }
+  
+  .element-index .helping-you-prepare-wrapper {
+    position: relative;
+    width: 522px;
+    height: 96px;
+  }
+  
+  .element-index .helping-you-prepare {
+    position: absolute;
+    width: 520px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 33px;
+  }
+  
+  .element-index .heading-10 {
+    position: absolute;
+    width: 708px;
+    height: 453px;
+    top: 13px;
+    left: 83px;
+    overflow: hidden;
+  }
+  
+  .element-index .overlap-group-13 {
+    position: relative;
+    height: 351px;
+    top: 51px;
+  }
+  
+  .element-index .shape-6 {
+    position: absolute;
+    width: 422px;
+    height: 183px;
+    top: 68px;
+    left: 0;
+  }
+  
+  .element-index .do-insure-secure-y {
+    position: absolute;
+    width: 683px;
+    top: 0;
+    left: 24px;
+    font-family: "PT Serif", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 90px;
+    letter-spacing: 0;
+    line-height: 105px;
+  }
+  
+  .element-index .header {
+    position: absolute;
+    width: 1173px;
+    height: 140px;
+    top: 27px;
+    left: 312px;
+    background-color: transparent;
+  }
+  
+  .element-index .main-header {
+    position: absolute;
+    width: 1170px;
+    height: 70px;
+    top: 70px;
+    left: 0;
+  }
+  
+  .element-index .overlap-22 {
+    position: relative;
+    height: 70px;
+  }
+  
+  .element-index .bg-7 {
+    position: absolute;
+    width: 1170px;
+    height: 70px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-index .rectangle-15 {
+    position: relative;
+    width: 1172px;
+    height: 72px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px -10px 20px #00356d0f;
+  }
+  
+  .element-index .button-11 {
+    position: absolute;
+    width: 177px;
+    height: 53px;
+    top: 7px;
+    left: 983px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/rectangle.svg);
+    background-size: 100% 100%;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .element-index .overlap-group-14 {
+    position: relative;
+    width: 144px;
+    height: 23px;
+    top: 12px;
+    left: 14px;
+  }
+  
+  .element-index .get-a-quote-5 {
+    width: 144px;
+    top: 0;
+    left: 0;
+    font-family: "Circular-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .group-7 {
+    position: absolute;
+    width: 8px;
+    height: 11px;
+    top: 7px;
+    left: 130px;
+  }
+  
+  .element-index .menu {
+    position: absolute;
+    width: 545px;
+    height: 25px;
+    top: 20px;
+    left: 30px;
+  }
+  
+  .element-index .overlap-23 {
+    position: relative;
+    width: 543px;
+    height: 25px;
+  }
+  
+  .element-index .home-insurance-pages {
+    position: absolute;
+    width: 543px;
+    top: 0;
+    left: 0;
+    font-family: "Circular-Book", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .path-10 {
+    position: absolute;
+    width: 11px;
+    height: 7px;
+    top: 13px;
+    left: 299px;
+  }
+  
+  .element-index .path-11 {
+    position: absolute;
+    width: 11px;
+    height: 7px;
+    top: 13px;
+    left: 197px;
+  }
+  
+  .element-index .language {
+    position: absolute;
+    width: 59px;
+    height: 23px;
+    top: 20px;
+    left: 907px;
+  }
+  
+  .element-index .text-wrapper-23 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Circular-Book", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .top-header {
+    position: absolute;
+    width: 640px;
+    height: 31px;
+    top: 0;
+    left: 534px;
+  }
+  
+  .element-index .email {
+    position: absolute;
+    width: 164px;
+    height: 22px;
+    top: 2px;
+    left: 288px;
+  }
+  
+  .element-index .ensure-inc-com {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .text-wrapper-24 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Arvo", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .search {
+    width: 242px;
+    height: 31px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+  }
+  
+  .element-index .rectangle-16 {
+    position: absolute;
+    width: 244px;
+    height: 3px;
+    top: 28px;
+    left: -1px;
+    background-color: #000000;
+    border-radius: 20.5px;
+  }
+  
+  .element-index .search-here {
+    left: 25px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    top: 0;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+  
+  .element-index .icon-4 {
+    position: absolute;
+    width: 14px;
+    height: 13px;
+    top: 3px;
+    left: 2px;
+  }
+  
+  .element-index .overlap-group-15 {
+    position: relative;
+    width: 15px;
+    height: 14px;
+    top: -1px;
+    left: -1px;
+  }
+  
+  .element-index .oval-5 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 0;
+    left: 0;
+    border-radius: 6.25px;
+    border: 1.5px solid;
+    border-color: #000000;
+  }
+  
+  .element-index .path-12 {
+    position: absolute;
+    width: 6px;
+    height: 5px;
+    top: 9px;
+    left: 9px;
+  }
+  
+  .element-index .phone {
+    position: absolute;
+    width: 155px;
+    height: 25px;
+    top: 3px;
+    left: 484px;
+  }
+  
+  .element-index .element-2 {
+    position: absolute;
+    top: 1px;
+    left: 27px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-index .icon-5 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 5px;
+    left: 5px;
+    background-image: url(https://c.animaapp.com/xsC8rLFm/img/shape.svg);
+    background-size: 100% 100%;
+  }
+  
+  .element-index .sefu-wrapper {
+    width: 68px;
+    left: 0;
+    position: absolute;
+    height: 41px;
+    top: 0;
+    overflow: hidden;
+  }
+  
+  .element-index .sefu-2 {
+    left: -1px;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    font-family: "Circular-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-index .language-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 123px;
+    left: 1169px;
+  }
+  
+  .element-index .vector {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 118px;
+    left: 1189px;
+  }
+  
+  .element-index .language-3 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 124px;
+    left: 1183px;
+  }
+  
